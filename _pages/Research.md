@@ -81,5 +81,14 @@ All publications are available through following links:
 10. **R. Ramesh Nayaka**, V. Padmanabhan and Prabhakaran. T, "Design of Fibre Reinforced Concrete Using Dramix Steel Fibres," in *International Conference on Engineering And Technology*, Columbo, Srilanka, 2015. **(Received Best Paper Presenter award)**
 
 
-## NATIONAL/INTERNATIONAL AWARD,PRIZE,MEDAL
-1. Recieved the **BIM Hero Award** for contributing to architecture ,engineering and construction (AEC) Sector and awarded by BIM coordinators Summit'2023 was held at Dublin,Ireland (Hybrid Mode).
+#### List of Journal Publications (Please enclose only the first page of each of the publications. Publications may be based on work done at IITDh or prior work but published only after joining IITDh.)
+
+| SL. No. | Author(s) | Title | Name of Journal | Volume | Page | Year |
+|---------|------------|-------|------------------|--------|------|------|
+| 1 | M. Bhanu Prakash, Akshay V., Ramesh Nayaka | Design and Economic Implications of Using Steel Fibers in Elevated Slabs of Multi-Story Buildings | Structural Concrete (Q1), Wiley Publishers. | Accepted | - | 2024 |
+| 2 | K. Shanthi Sri, Ramesh Nayaka, M.V.N. Siva Kumar | Mechanical properties of sustainable self-healing concrete and its performance evaluation using ANN and ANFIS models | Journal of Building Pathology and Rehabilitation (Q2), Springer Publishers. | 08 | 99 | 2023 |
+| 3 | P. Mani Rathnam, Ramesh Nayaka, M.V.N. Siva Kumar | Value-added utilization of granite industry by-product in development of geopolymer paver blocks for medium traffic driveways | Innovative Infrastructure Solutions (Q2), Springer Publishers. | 8(9) | 242 | 2023 |
+| 4 | M.R. Sai Kumar, Ramesh Nayaka | A state of art review on time, cost and sustainable benefits of modern construction techniques | Construction Innovation (Q1), Emerald | ISSN 1471-4175 | - | 2023 |
+| 5 | Anis Syafiqah Hashim, Mustapha Kamil Omran, Reventheran Ganasan, Mohamad Noorazizi Safee, Mohd Eizzuddin Mahyeddin, Muhammad Faiz Abd Latif, Ramesh Nayaka | Conceptual Design and Feasibility Study of Gauge-Changing Bogie for Variable Gauge System | Journal of Advanced Research in Applied Mechanics | 111(1) | 92-102 | 2023 |
+| 6 | Nurul Afiqah Mohd Idris, Reventheran Ganasan, Akmal Hakim Ismail, Mustapha Kamil Omran, Zuraidah Ngadiron, Ramesh Nayaka, Md Akter Hosen | Investigation into Discrepancies in Alignment and Levelling of Precast Segmental Box Girders (SBGs) During Launching for LRT 3, from Bandar Utama to Johan Setia (Package GS10) | Journal of Advanced Industrial Technology and Application | Accepted | - | 2024 |
+
