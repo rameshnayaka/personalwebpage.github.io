@@ -19,6 +19,7 @@ author_profile: true
 - Functional Design of Buildings
 - Optimization Techniques
 
+
 ## Publications
 
 All publications are available through following links: 
@@ -78,3 +79,7 @@ All publications are available through following links:
 8. **R. Ramesh Nayaka,** Diwakar G S, Tejus Kabadi and Aditya Maheshwari **“**Inhibition of Chloride-Induced Corrosion in RCC Structures with Calcium Nitrate,” *International Conference on Emerging Trends in Engineering –* *ICETE 2016, Nitte, Karnataka, 2016.*
 9. **R. Ramesh Nayaka** and Anilkumar. PM, "Self Compacting Concrete using PPC and SNF," in *The 7th Asia Pacific Young Researchers and Graduates Symposium*, University of Malaya, Kuala Lumpur, 2015.
 10. **R. Ramesh Nayaka**, V. Padmanabhan and Prabhakaran. T, "Design of Fibre Reinforced Concrete Using Dramix Steel Fibres," in *International Conference on Engineering And Technology*, Columbo, Srilanka, 2015. **(Received Best Paper Presenter award)**
+
+
+## NATIONAL/INTERNATIONAL AWARD,PRIZE,MEDAL
+1. Recieved the **BIM Hero Award** for contributing to architecture ,engineering and construction (AEC) Sector and awarded by BIM coordinators Summit'2023 was held at Dublin,Ireland (Hybrid Mode).
