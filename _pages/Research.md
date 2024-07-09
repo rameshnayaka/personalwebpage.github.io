@@ -81,7 +81,7 @@ All publications are available through following links:
 10. **R. Ramesh Nayaka**, V. Padmanabhan and Prabhakaran. T, "Design of Fibre Reinforced Concrete Using Dramix Steel Fibres," in *International Conference on Engineering And Technology*, Columbo, Srilanka, 2015. **(Received Best Paper Presenter award)**
 
 
-#### List of Journal Publications (Please enclose only the first page of each of the publications. Publications may be based on work done at IITDh or prior work but published only after joining IITDh.)
+#### (a) List of Journal Publications (Please enclose only the first page of each of the publications. Publications may be based on work done at IITDh or prior work but published only after joining IITDh.)
 
 | SL. No. | Author(s) | Title | Name of Journal | Volume | Page | Year |
 |---------|------------|-------|------------------|--------|------|------|
@@ -92,3 +92,23 @@ All publications are available through following links:
 | 5 | Anis Syafiqah Hashim, Mustapha Kamil Omran, Reventheran Ganasan, Mohamad Noorazizi Safee, Mohd Eizzuddin Mahyeddin, Muhammad Faiz Abd Latif, Ramesh Nayaka | Conceptual Design and Feasibility Study of Gauge-Changing Bogie for Variable Gauge System | Journal of Advanced Research in Applied Mechanics | 111(1) | 92-102 | 2023 |
 | 6 | Nurul Afiqah Mohd Idris, Reventheran Ganasan, Akmal Hakim Ismail, Mustapha Kamil Omran, Zuraidah Ngadiron, Ramesh Nayaka, Md Akter Hosen | Investigation into Discrepancies in Alignment and Levelling of Precast Segmental Box Girders (SBGs) During Launching for LRT 3, from Bandar Utama to Johan Setia (Package GS10) | Journal of Advanced Industrial Technology and Application | Accepted | - | 2024 |
 
+#### (b) List of Conference Papers (Please enclose only the first page of each of the publications. Publications may be based on work done at IITDh or prior work but published only after joining IITDh.)
+
+| SL. No. | Author(s) | Title | Conf. Details | Volume | Page | Year |
+|---------|------------|-------|---------------|--------|------|------|
+| 1 | Ramesh Nayaka, G. Ujwal Kumar, Ahamed Sharif, Xiang Zhang | Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP): A Selective Review | International Conference on Additive Manufacturing (ICAM-2024) | Lecture Notes in Mechanical Engineering (Presented and Accepted for publication) | - | 2024 |
+| 2 | Ramesh Nayaka, Macharla Aravind | Performance Evaluation of Off-Site Construction Method for Mass Housing Projects using Building Information Modelling (BIM) Approach | IABSE Congress New Delhi 2023 Engineering for Sustainable Development | ISBN: 978-3-85748-200-7 | 1233-1243 | 2023 |
+| 3 | Akash Chaturvedi, Ramesh Nayaka | Enhancing Mortar Performance: Utilizing Ground Granulated Blast Furnace Slag and Stone Dust as Eco-friendly Binder and Fine Aggregate Replacements | Second International Conference on Advances in Sustainable Construction Materials (ICASCM 2023) | Proceedings (Accepted and Presented) | - | 2023 |
+| 4 | Rajmohan B., N. Harish, Ramesh Nayaka, K.H. Mo | Appraisal of Mechanical Properties of Flyash based Geopolymer Mortar Augmented with GGBS and Graphene Oxide | International Conference on Cement and Building Koncrete for a Sustainable and Resilient Infrastructure (CBKR-2023) | Lecture Notes in Civil Engineering, 440, Springer | 15-26 | 2024 |
+
+#### National/ International Award, Prize, Medal:
+1. Recieved the **BIM Hero Award**for Contrubuting to ARchitecture, Engineering and Construction Sector and awarded by BIM Coordinators Summit'2023 was held at Dublin, Ireland(Hybrid Model).
+
+#### Honorary Professional work
+- Reviewer for Reputed Journals and Conferences: JMCE, ASCE; Journal of Cleaner Production, Construction and Building Materials, Journal of building engineering etc.
+- Examiner for PhD / MS Theses: VTU Thesis Examiner, M.S. Ramaiah University Bengaluru, MAHE Manipal
+- Member of Selection Committee: BEC Bagalkot.
+- Any other: Technical Committee member in RILEM, Member of IABSE, IEI(India), PMI and ICI(India).
+
+#### Any Other Contributions:
+1. Represented IIT Dharwad in Badminton, Squash and Cricket in inter IITs Faculty and Staff Sports meet held at IIT Gandhinagar in December 2023.
