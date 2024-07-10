@@ -103,31 +103,7 @@ All publications are available through following links:
 
 
 
-### (c) Consultancy Work Undertaken (Please provide details about the same):
-
-| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
-|---------|----------|---------------|----------------|-----------------------|--------|
-| 1 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x30.5m steel truss pipeline bridge no. 290B-1/4 at Railway KM: 106/280 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.47 Lakhs | Completed |
-| 2 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x26.20 m girder of size 1.30 m composite girder at km 106/255 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 91.12 Lakhs | On-going |
-| 3 | PI | PMC for 3D Concrete Printed Building at Bewoor, Bagalkot Division | Department of Posts, Ministry of Communication, Govt. of India | 1.68 Lakhs | On-going |
-| 4 | PI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.59 Lakhs | On-going |
-| 5 | Co-PI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 7.00 Lakhs | On-going |
-| 6 | Co-PI | Proof checking of the structural designs and drawings of the proposed doors (list attached) for compliance to relevant Indian standard codes of practice. | M/s. Sannidhi Technologies Inc, Doddakallasandra Post, Bangalore 560 062 | 4.248 Lakhs | Incomplete |
-
-### (d) Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
-
-| Program | No. of Students | Institute | Status |
-|---------|-----------------|-----------|--------|
-| Ph.D. | 03 | IIT Dharwad | On-going |
-| Ph.D. | 04 | NIT Warangal | On-going |
-| M.Tech. | 21 | NIT Warangal | Completed |
-| B.Tech. | 09 | NIT Warangal | Completed |
-
-### Patents/IP:
-
-**A Process of Producing a Light Weight Eco-Friendly Hollow Masonry Block** (Grant No. MY-198601-A. Date of Grant: 07.09.2023, Country: Malaysia)
-
-### Sponsored Research (Include all proposals submitted and their status):
+### (c) Sponsored Research (Include all proposals submitted and their status):
 
 | SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
 |---------|----------|---------------|----------------|-----------------------|--------|
@@ -140,10 +116,47 @@ All publications are available through following links:
 | 7 | PI | Novel Development of a blended mixture of LC³ and Available SCMs for Durable 3D Concrete Printing (3DCP) Structure and its Life Cycle Benefits: Transition to Sustainable Infrastructure | Core Research Grant (CRG), SERB, Govt. of India | 66.99 Lakhs | Not Recommended |
 | 8 | PI | Novel Development of Fly Ash and Nano-Materials Based Sustainable Self-Healing Mortar for Repair of Roads and Its Evaluation using ML Models | Grants for Research Excellence (GRE), VGST, govt. of Karnataka | 29.00 Lakhs | Not Recommended |
 
+
+### (d) Consultancy Work Undertaken (Please provide details about the same):
+
+| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
+|---------|----------|---------------|----------------|-----------------------|--------|
+| 1 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x30.5m steel truss pipeline bridge no. 290B-1/4 at Railway KM: 106/280 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.47 Lakhs | Completed |
+| 2 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x26.20 m girder of size 1.30 m composite girder at km 106/255 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 91.12 Lakhs | On-going |
+| 3 | PI | PMC for 3D Concrete Printed Building at Bewoor, Bagalkot Division | Department of Posts, Ministry of Communication, Govt. of India | 1.68 Lakhs | On-going |
+| 4 | PI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.59 Lakhs | On-going |
+| 5 | Co-PI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 7.00 Lakhs | On-going |
+| 6 | Co-PI | Proof checking of the structural designs and drawings of the proposed doors (list attached) for compliance to relevant Indian standard codes of practice. | M/s. Sannidhi Technologies Inc, Doddakallasandra Post, Bangalore 560 062 | 4.248 Lakhs | Incomplete |
+
+### (e) Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
+
+| Program | No. of Students | Institute | Status |
+|---------|-----------------|-----------|--------|
+| Ph.D. | 03 | IIT Dharwad | On-going |
+| Ph.D. | 04 | NIT Warangal | On-going |
+| M.Tech. | 21 | NIT Warangal | Completed |
+| B.Tech. | 09 | NIT Warangal | Completed |
+
+### (f) Patents/IP:
+
+**A Process of Producing a Light Weight Eco-Friendly Hollow Masonry Block** (Grant No. MY-198601-A. Date of Grant: 07.09.2023, Country: Malaysia)
+
+### (g) Establishment of Major R&D Facilities:
+1. Isothermal Calorimetry
+2. R&D 3D Concrete printer (Gantry and Robotic Type)
+3. Pycnometer
+4. MOR(Sponsored Project)
+5. Thermal Conductivity (sponsored Project)
+6. Moisture Expansion, Water Absorption etc. (sponsored Project)
+
+### (h) Any other activities:
+1. Innovative products were exhibited at both the Inventiv-2024 Technical Exhibition at IIT Hyderabad in November 2023 and the exhibition during Deshpande Start-up Dialouges on Sustainable Housing Solutions in February 2024.
+2. Participated in Bengaluru Tech Summit in December 2023.
+
 #### National/ International Award, Prize, Medal:
 1. Recieved the **BIM Hero Award**for Contrubuting to ARchitecture, Engineering and Construction Sector and awarded by BIM Coordinators Summit'2023 was held at Dublin, Ireland(Hybrid Model).
 
-#### Honorary Professional work
+####  Honorary Professional work
 - Reviewer for Reputed Journals and Conferences: JMCE, ASCE; Journal of Cleaner Production, Construction and Building Materials, Journal of building engineering etc.
 - Examiner for PhD / MS Theses: VTU Thesis Examiner, M.S. Ramaiah University Bengaluru, MAHE Manipal
 - Member of Selection Committee: BEC Bagalkot.
