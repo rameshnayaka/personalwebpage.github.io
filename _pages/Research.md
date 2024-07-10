@@ -101,19 +101,9 @@ All publications are available through following links:
 | 3 | Akash Chaturvedi, Ramesh Nayaka | Enhancing Mortar Performance: Utilizing Ground Granulated Blast Furnace Slag and Stone Dust as Eco-friendly Binder and Fine Aggregate Replacements | Second International Conference on Advances in Sustainable Construction Materials (ICASCM 2023) | Proceedings (Accepted and Presented) | - | 2023 |
 | 4 | Rajmohan B., N. Harish, Ramesh Nayaka, K.H. Mo | Appraisal of Mechanical Properties of Flyash based Geopolymer Mortar Augmented with GGBS and Graphene Oxide | International Conference on Cement and Building Koncrete for a Sustainable and Resilient Infrastructure (CBKR-2023) | Lecture Notes in Civil Engineering, 440, Springer | 15-26 | 2024 |
 
-#### National/ International Award, Prize, Medal:
-1. Recieved the **BIM Hero Award**for Contrubuting to ARchitecture, Engineering and Construction Sector and awarded by BIM Coordinators Summit'2023 was held at Dublin, Ireland(Hybrid Model).
 
-#### Honorary Professional work
-- Reviewer for Reputed Journals and Conferences: JMCE, ASCE; Journal of Cleaner Production, Construction and Building Materials, Journal of building engineering etc.
-- Examiner for PhD / MS Theses: VTU Thesis Examiner, M.S. Ramaiah University Bengaluru, MAHE Manipal
-- Member of Selection Committee: BEC Bagalkot.
-- Any other: Technical Committee member in RILEM, Member of IABSE, IEI(India), PMI and ICI(India).
 
-#### Any Other Contributions:
-1. Represented IIT Dharwad in Badminton, Squash and Cricket in inter IITs Faculty and Staff Sports meet held at IIT Gandhinagar in December 2023.
-
-### Consultancy Work Undertaken (Please provide details about the same):
+### (c) Consultancy Work Undertaken (Please provide details about the same):
 
 | SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
 |---------|----------|---------------|----------------|-----------------------|--------|
@@ -124,7 +114,7 @@ All publications are available through following links:
 | 5 | Co-PI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 7.00 Lakhs | On-going |
 | 6 | Co-PI | Proof checking of the structural designs and drawings of the proposed doors (list attached) for compliance to relevant Indian standard codes of practice. | M/s. Sannidhi Technologies Inc, Doddakallasandra Post, Bangalore 560 062 | 4.248 Lakhs | Incomplete |
 
-### Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
+### (d) Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
 
 | Program | No. of Students | Institute | Status |
 |---------|-----------------|-----------|--------|
@@ -149,3 +139,15 @@ All publications are available through following links:
 | 6 | Co-PI | Exploration, Processing and Utilisation of Rare Earth Elements (REEs) from Coal and Related Wastes | Ministry of Mines, Govt. of India | 3849.00 Lakhs | Not recommended |
 | 7 | PI | Novel Development of a blended mixture of LC³ and Available SCMs for Durable 3D Concrete Printing (3DCP) Structure and its Life Cycle Benefits: Transition to Sustainable Infrastructure | Core Research Grant (CRG), SERB, Govt. of India | 66.99 Lakhs | Not Recommended |
 | 8 | PI | Novel Development of Fly Ash and Nano-Materials Based Sustainable Self-Healing Mortar for Repair of Roads and Its Evaluation using ML Models | Grants for Research Excellence (GRE), VGST, govt. of Karnataka | 29.00 Lakhs | Not Recommended |
+
+#### National/ International Award, Prize, Medal:
+1. Recieved the **BIM Hero Award**for Contrubuting to ARchitecture, Engineering and Construction Sector and awarded by BIM Coordinators Summit'2023 was held at Dublin, Ireland(Hybrid Model).
+
+#### Honorary Professional work
+- Reviewer for Reputed Journals and Conferences: JMCE, ASCE; Journal of Cleaner Production, Construction and Building Materials, Journal of building engineering etc.
+- Examiner for PhD / MS Theses: VTU Thesis Examiner, M.S. Ramaiah University Bengaluru, MAHE Manipal
+- Member of Selection Committee: BEC Bagalkot.
+- Any other: Technical Committee member in RILEM, Member of IABSE, IEI(India), PMI and ICI(India).
+
+#### Any Other Contributions:
+1. Represented IIT Dharwad in Badminton, Squash and Cricket in inter IITs Faculty and Staff Sports meet held at IIT Gandhinagar in December 2023.
