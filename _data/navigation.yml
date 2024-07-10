@@ -6,8 +6,8 @@ main:
   - title: "Profile"
     url: /Profile/    
 
-  - title: "Research & Development"
-    url: /Research-&-Development/    
+  - title: "Research"
+    url: /Research/    
     
   - title: "Guidance"
     url: /Guidance/
