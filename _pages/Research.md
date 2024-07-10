@@ -112,3 +112,40 @@ All publications are available through following links:
 
 #### Any Other Contributions:
 1. Represented IIT Dharwad in Badminton, Squash and Cricket in inter IITs Faculty and Staff Sports meet held at IIT Gandhinagar in December 2023.
+
+### Consultancy Work Undertaken (Please provide details about the same):
+
+| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
+|---------|----------|---------------|----------------|-----------------------|--------|
+| 1 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x30.5m steel truss pipeline bridge no. 290B-1/4 at Railway KM: 106/280 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.47 Lakhs | Completed |
+| 2 | PI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x26.20 m girder of size 1.30 m composite girder at km 106/255 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 91.12 Lakhs | On-going |
+| 3 | PI | PMC for 3D Concrete Printed Building at Bewoor, Bagalkot Division | Department of Posts, Ministry of Communication, Govt. of India | 1.68 Lakhs | On-going |
+| 4 | PI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.59 Lakhs | On-going |
+| 5 | Co-PI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 7.00 Lakhs | On-going |
+| 6 | Co-PI | Proof checking of the structural designs and drawings of the proposed doors (list attached) for compliance to relevant Indian standard codes of practice. | M/s. Sannidhi Technologies Inc, Doddakallasandra Post, Bangalore 560 062 | 4.248 Lakhs | Incomplete |
+
+### Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
+
+| Program | No. of Students | Institute | Status |
+|---------|-----------------|-----------|--------|
+| Ph.D. | 03 | IIT Dharwad | On-going |
+| Ph.D. | 04 | NIT Warangal | On-going |
+| M.Tech. | 21 | NIT Warangal | Completed |
+| B.Tech. | 09 | NIT Warangal | Completed |
+
+### Patents/IP:
+
+**A Process of Producing a Light Weight Eco-Friendly Hollow Masonry Block** (Grant No. MY-198601-A. Date of Grant: 07.09.2023, Country: Malaysia)
+
+### Sponsored Research (Include all proposals submitted and their status):
+
+| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
+|---------|----------|---------------|----------------|-----------------------|--------|
+| 1 | PI | Development of Versatile 3D Printable Concrete from Recyclable Construction and Demolition (C&D) Waste Generated from Phase-I of I.I.T. Dharwad Project: towards circular Economy | IIT Dharwad, SGNF Grant | 5.00 Lakhs | On-going |
+| 2 | Co-PI | Sustainable Housing Innovations | Nidhi Prayas Grant, Deshpande Startups, Hubballi | 5.00 Lakhs | On-going |
+| 3 | Co-PI | AI-Sustainable Infrastructure and Resource Planning, Analysis and Monitoring (AISwARYAM) (Consortium as part of AI-CoE at IIT Hyderabad) | Ministry of Education, Govt. of India | 200 Lakhs (Phase-I) | On-going |
+| 4 | PI | Next-Gen Building: Alkali-Activated Concrete for Advancing 3D Printable Prefabricated Systems in Sustainable Infrastructures | Ministry of Education, Govt. of India | 316.50 Lakhs | Decision-Pending |
+| 5 | Co-PI | Conceptual Design and Feasibility Study of Gauge-Changing Bogie For Variable Gauge System | Govt. of Malaysia | 4.00 Lakhs | Completed |
+| 6 | Co-PI | Exploration, Processing and Utilisation of Rare Earth Elements (REEs) from Coal and Related Wastes | Ministry of Mines, Govt. of India | 3849.00 Lakhs | Not recommended |
+| 7 | PI | Novel Development of a blended mixture of LC³ and Available SCMs for Durable 3D Concrete Printing (3DCP) Structure and its Life Cycle Benefits: Transition to Sustainable Infrastructure | Core Research Grant (CRG), SERB, Govt. of India | 66.99 Lakhs | Not Recommended |
+| 8 | PI | Novel Development of Fly Ash and Nano-Materials Based Sustainable Self-Healing Mortar for Repair of Roads and Its Evaluation using ML Models | Grants for Research Excellence (GRE), VGST, govt. of Karnataka | 29.00 Lakhs | Not Recommended |
