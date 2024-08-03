@@ -12,10 +12,14 @@ author_profile: true
 
 **UG Courses**
 
-1. CIE201 - Building and Construction Materials (ISem-III)
-2. MIE111 - Engineering Graphics (Sem-II)
-3. MIE113 - Hands on Engineering (Sem-II)
-4. MIE 425 - Additive Manufacturing (PG Course)
+1. CE201 - Building and Construction Materials
+2. CE205 - Structural Analysis
+3. ME111 - Engineering Graphics 
+4. ME113 - Hands on Engineering 
+5. ME425 - Additive Manufacturing (PG Course)
+6. CE603 - 3D Concrete Printing Technology (PG Course)
+7. CE604 - Modern Construction Materials and Techniques (PG Course)
+
 
 **Courses** **Previous** **taught at NIT Warangal**
 
