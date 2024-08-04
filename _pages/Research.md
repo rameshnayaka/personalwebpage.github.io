@@ -25,7 +25,7 @@ All publications are available through following links:
 - [Web of Science ID](https://orcid.org/0000-0001-7563-986X) 
 - [Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=L8ydQosAAAAJ)
 - [Research Gate Profile](https://www.researchgate.net/profile/Ramesh-Nayaka)
-#### (a) List of Journal Publications 
+#### List of Referred Journal Publications 
 
 | SL. No. | Author(s) | Title | Name of Journal | Volume | Page | Year |
 |---------|------------|-------|------------------|--------|------|------|
@@ -36,7 +36,7 @@ All publications are available through following links:
 | 5 | Anis Syafiqah Hashim, Mustapha Kamil Omran, Reventheran Ganasan, Mohamad Noorazizi Safee, Mohd Eizzuddin Mahyeddin, Muhammad Faiz Abd Latif, Ramesh Nayaka | Conceptual Design and Feasibility Study of Gauge-Changing Bogie for Variable Gauge System | Journal of Advanced Research in Applied Mechanics | 111(1) | 92-102 | 2023 |
 | 6 | Nurul Afiqah Mohd Idris, Reventheran Ganasan, Akmal Hakim Ismail, Mustapha Kamil Omran, Zuraidah Ngadiron, Ramesh Nayaka, Md Akter Hosen | Investigation into Discrepancies in Alignment and Levelling of Precast Segmental Box Girders (SBGs) During Launching for LRT 3, from Bandar Utama to Johan Setia (Package GS10) | Journal of Advanced Industrial Technology and Application | Accepted | - | 2024 |
 
-#### (b) List of Conference Papers (Please enclose only the first page of each of the publications. Publications may be based on work done at IITDh or prior work but published only after joining IITDh.)
+#### List of Conference Papers 
 
 | SL. No. | Author(s) | Title | Conf. Details | Volume | Page | Year |
 |---------|------------|-------|---------------|--------|------|------|
@@ -45,9 +45,7 @@ All publications are available through following links:
 | 3 | Akash Chaturvedi, Ramesh Nayaka | Enhancing Mortar Performance: Utilizing Ground Granulated Blast Furnace Slag and Stone Dust as Eco-friendly Binder and Fine Aggregate Replacements | Second International Conference on Advances in Sustainable Construction Materials (ICASCM 2023) | Proceedings| - | 2023 |
 | 4 | Rajmohan B., N. Harish, Ramesh Nayaka, K.H. Mo | Appraisal of Mechanical Properties of Flyash based Geopolymer Mortar Augmented with GGBS and Graphene Oxide | International Conference on Cement and Building Koncrete for a Sustainable and Resilient Infrastructure (CBKR-2023) | Lecture Notes in Civil Engineering, 440, Springer | 15-26 | 2024 |
 
-
-
-### (c) Sponsored Research (Include all proposals submitted and their status):
+### Sponsored Research 
 
 | SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
 |---------|----------|---------------|----------------|-----------------------|--------|
@@ -59,7 +57,7 @@ All publications are available through following links:
 | 6 | Co-PI |Green Hollow Masonry Blocks| Prototype Grant, UMCIC, University of Malaya, Malaysia |7.00 | Completed |
 
 
-### (d) Consultancy Work Undertaken (Please provide details about the same):
+### Consultancy Work Undertaken:
 
 | SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status |
 |---------|----------|---------------|----------------|-----------------------|--------|
@@ -69,32 +67,10 @@ All publications are available through following links:
 | 4 | PI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.59 Lakhs | On-going |
 | 5 | Co-PI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 7.00 Lakhs | On-going |
 
-
-### (e) Research Supervision (Indicate Bachelor's, Master's, and Doctoral work separately & their status):
-
-| Program | No. of Students | Institute | Status |
-|---------|-----------------|-----------|--------|
-| Ph.D. | 03 | IIT Dharwad | On-going |
-| Ph.D. | 04 | NIT Warangal | On-going |
-| M.Tech. | 21 | NIT Warangal | Completed |
-| B.Tech. | 09 | NIT Warangal | Completed |
-
-### (f) Patents/IP:
-
+### Patents/IP:
 **A Process of Producing a Light Weight Eco-Friendly Hollow Masonry Block** (Grant No. MY-198601-A. Date of Grant: 07.09.2023, Country: Malaysia)
 
-### (g) Establishment of Major R&D Facilities:
-1. Isothermal Calorimetry
-2. R&D 3D Concrete printer (Gantry and Robotic Type)
-3. Pycnometer
-4. MOR(Sponsored Project)
-5. Thermal Conductivity (sponsored Project)
-6. Moisture Expansion, Water Absorption etc. (sponsored Project)
-
-### (h) Any other activities:
-1. Innovative products were exhibited at both the Inventiv-2024 Technical Exhibition at IIT Hyderabad in November 2023 and the exhibition during Deshpande Start-up Dialouges on Sustainable Housing Solutions in February 2024.
-2. Participated in Bengaluru Tech Summit in December 2023.
-
-#### National/ International Award, Prize, Medal:
-1. Recieved the **BIM Hero Award**for Contrubuting to ARchitecture, Engineering and Construction Sector and awarded by BIM Coordinators Summit'2023 was held at Dublin, Ireland(Hybrid Model).
-
+### Exhibition:
+1. Won Global Sustainathon Challenge organsied by Masood Entrepreneurship Centre, University of Manchester, UK and Deshpande Start Ups, Hubballi. Visited University of Manchester, UK in July 2024. 
+2. Innovative products were exhibited at both the IInvenTive-2024 Technical Exhibition at IIT Hyderabad in November 2023 and the exhibition during Deshpande Start-up Dialouges on Sustainable Housing Solutions in February 2024.
+3. Participated in Bengaluru Tech Summit in December 2023.
