@@ -11,9 +11,8 @@ author_profile: true
 # **WORKSHOPS/CONFERENCES**
 
 **Faculty Development Program Organised:**
-
-1.A Week high end workshop (Karyashala) on Characterisation Techniques and Life Cycle Assessment of Construction Materials for Sustainable Infrastructure, held from March 11- 17, 2024, sponsored by SERB, Govt. of India (Under accelerate Vigyan scheme).
-2. Coordinator : A week High End Workshop on " Sustainable Construction Materials and Techniques" organized by Dept. of Civil Engineering and Sponsored by Accelerate Vigyan Scheme, SERB, Govt. of India from Jan 11-17, 2023, Funds: INR 5.00 Lakhs). 
+1. A Week high end workshop (Karyashala) on Characterisation Techniques and Life Cycle Assessment of Construction Materials for Sustainable Infrastructure, held from March 11- 17, 2024, sponsored by SERB, Govt. of India (Under accelerate Vigyan scheme).
+2. Coordinator : A week High End Workshop on " Sustainable Construction Materials and Techniques" organized by Dept. of Civil Engineering and Sponsored by Accelerate Vigyan Scheme, SERB, Govt. of India from Jan 11-17, 2023, Funds: INR 5.00 Lakhs).
 3. Coordinator: 10 days FDP on Advances in Sustainable Construction Materials and Techniques" organized by Dept. of Civil Engineering and E&ICT Academy, NIT Warangal in association with BITS Pilani, Hyderabad Campus, Hyderabad (July 18 to July 27, 2022).
 4. Coordinator: 10 days FDP on Facilitating Digital Transformation in Design, Construction, and Management Processes of Civil Engineering organized by Dept. of Civil Engineering and E&ICT Academy, NIT Warangal (Feb 21 to March 2, 2022).
 5. Coordinator: 10 days FDP on Information and Communication Technology for Construction Sector organized by Department of Civil Engineering, JSS Academy of Technical Education, Bengaluru & Department of Civil Engineering, NIT Warangal, in association with Electronics & ICT Academy, NIT Warangal (Feb 17 to Feb 26, 2022).
