@@ -24,23 +24,4 @@ author_profile: true
 **Industrial Training**
 -  **Trainee,** M/S. Larsen and Toubro (L&T) Construction, Head Quarters, Chennai, TN, India (May 2012 - July 2012)
 
- **Administrative Roles and Responsibilities**
-1. Faculty Incharge-Civil (Infrastructure, Planning and Support), IIT Dharwad
-2. Advisor, Career Development Cell, IIT Dharwad
-3. Member, Green Initiative Committee, IIT Dharwad
-4. Member, UG-APEC Committee, IIT Dharwad
-5. Member, Furniture Purchase Committee, IIT Dharwad
-6. Member, Allotment of Director Discretion Quota (DDQ) Flats in Faculty Housing
-7. Faculty Advisor (B.Tech. - 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
-8. Ph.D. Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
-9. Time Table Coordinator, Dept. of CIE, IIT Dharwad (June 2023 - May 2024)
-10. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT Dharwad
-   
- **Membership in Professional Bodies**
-1. Charted Engineer (IN), Institute of Engineers, India 
-2. Member, Project Management Institute (PMI), USA 
-3. Member, Institute of Engineers (IEI), India 
-4. Affiliate Member (AM), American Society of Civil Engineers (ASCE), USA
-5. Young Member, The International Union of Laboratories and Experts in Construction Materials, Systems and Structures (*RILEM*), France
-6. Young Member, International Association of Bridge and Structural Engineering (IABSE), Zurich, Switzerland
-7. Member, Indian Concrete Institute, India 
+
