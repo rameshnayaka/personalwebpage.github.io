@@ -12,8 +12,9 @@ author_profile: true
 
 **1. Ph.D. Thesis Guidance at** **IIT Dharwad**
 
-- Fatheali Allabaks Shilar (Sem-I, 2023)
-- Anitha Nayak (Sem-I, 2023) 
+- Anitha Nayak (CE23DP001)
+- Fatheali Allabaks Shilar (CE23DP003)
+- Manjunathgouda M Patil (CE23DP010) 
 
 **2. Ph.D. Thesis Guidance at NIT Warangal** 
 
