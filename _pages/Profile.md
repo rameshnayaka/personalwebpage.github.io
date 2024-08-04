@@ -8,8 +8,8 @@ author_profile: true
 
 **Academic Qualification** 
 
-- **Ph.D.** (Structural Engineering and Materials), Faculty of Engineering, University of Malaya (UM), Kuala Lumpur, Malaysia. (April 2016 – May 2019) (Excellence Award' 2019)
-- **M. Tech.** (Civil Engineering)**, Indian Institute of Technology (IIT) Madras, Tamil Nadu, India ( July 2011 – July 2013) 
+- **Ph.D.**(Structural Engineering and Materials), Faculty of Engineering, University of Malaya (UM), Kuala Lumpur, Malaysia. (April 2016 – May 2019) (Excellence Award' 2019)
+- **M. Tech.** (Civil Engineering), Indian Institute of Technology (IIT) Madras, Tamil Nadu, India ( July 2011 – July 2013) 
 - **B.E.**(Civil Engineering), Visvesvaraya Technological University (VTU), Karnataka (BEC Bagalkot), India (September 2007 – June 2011)
 
  **Teaching and Research Experience**
