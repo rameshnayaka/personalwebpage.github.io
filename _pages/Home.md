@@ -22,7 +22,7 @@ Dr. Nayaka has research articles published in esteemed journals and research ini
 5. Member, Furniture Purchase Committee, IIT Dharwad
 6. Member, Allotment of Director Discretion Quota (DDQ) Flats in Faculty Housing
 7. Faculty Advisor (B.Tech. - 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
-8. Ph.D. Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
+8. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
 9. Time Table Coordinator, Dept. of CIE, IIT Dharwad (June 2023 - May 2024)
 10. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT Dharwad
 
