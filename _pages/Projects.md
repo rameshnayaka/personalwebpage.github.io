@@ -23,17 +23,17 @@ author_profile: true
 
 ### Consultancy Work Undertaken:
 
-| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status | YoPR |
-|---------|----------|---------------|----------------|-----------------------|--------|-------|
-| 12| CI |Proof Checking Design and Drawings of Retaining Wall at CH 107, Railway Doubling Line of Hospet - Vasco|Southern Railways, Hubballi  |2.06  | Completed |2025|
-| 11 | CI |Proof Checking Design and Drawings of RUB No. 427A| KRIDE Bengaluru |  1.18  | Completed |2024|
-| 10 | CI |Proof Checking of Structural Design and Drawings of Extended Floor Construction of Veterinery College Building, Gadag| PWD, Govt. of Karnataka |  6.00  | Completed | 2024|
-| 9 | CI |Soundness of Existing Academic and Main Building, Veterinery College Building, Gadag| PWD, Govt. of Karnataka |  0.649  | Completed| 2024|
-| 8 | Co-CI |Stability Investigation Work of College of Community Sciences, UAS Dharwad | UAS Dharwad | 6.50  | Completed | 2024|
-| 7 | Co-CI | Proof Checking of Structural Design and Drawings of District Offices, Belagavi | PWD, Govt. of Karnataka | 17.11 | Completed | 2024|
-| 6 | CI | Proof Checking of Design and Drawing of FOB Ramp at Heelalige Station Yard under Baiyyappanahalli – Hosur doubling Project | KRIDE, Bengaluru | 2.24  | Completed | 2024|
-| 5 | Co-CI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India | 8.44  | Completed | 2024|
-| 4 | CI | PMC for 3D Concrete Printed Building at Bewoor, Bagalkot Division | Department of Posts, Ministry of Communication, Govt. of India | 1.68  | Pending |2024|
-| 3 | CI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.59 | Completed | 2024 |
-| 2 | CI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x30.5m steel truss pipeline bridge no. 290B-1/4 at Railway KM: 106/280 at Shantinagar Area, Dabolim, Goa| Rail Vikas Nigam Limited, Hubli, Karnataka | 0.47| Completed |2023|
-| 1 | CI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x26.20 m girder of size 1.30 m composite girder at km 106/255 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka | 0.92| Completed|2023|
+| SL. No. | PI/Co-PI | Project Title | Funding Agency | Status | YoPR |
+|---------|----------|---------------|----------------|--------|-------|
+| 12| CI |Proof Checking Design and Drawings of Retaining Wall at CH 107, Railway Doubling Line of Hospet - Vasco|Southern Railways, Hubballi | Completed |2025|
+| 11 | CI |Proof Checking Design and Drawings of RUB No. 427A| KRIDE Bengaluru| Completed |2024|
+| 10 | CI |Proof Checking of Structural Design and Drawings of Extended Floor Construction of Veterinery College Building, Gadag| PWD, Govt. of Karnataka| Completed | 2024|
+| 9 | CI |Soundness of Existing Academic and Main Building, Veterinery College Building, Gadag| PWD, Govt. of Karnataka | Completed| 2024|
+| 8 | Co-CI |Stability Investigation Work of College of Community Sciences, UAS Dharwad | UAS Dharwad| Completed | 2024|
+| 7 | Co-CI | Proof Checking of Structural Design and Drawings of District Offices, Belagavi | PWD, Govt. of Karnataka| Completed | 2024|
+| 6 | CI | Proof Checking of Design and Drawing of FOB Ramp at Heelalige Station Yard under Baiyyappanahalli – Hosur doubling Project | KRIDE, Bengaluru| Completed | 2024|
+| 5 | Co-CI | Third Party Quality Audit (TPQA) of multi-storied patient accommodation at Panchavati campus, AIISH Mysuru | AIISH Mysuru, Govt. of India| Completed | 2024|
+| 4 | CI | PMC for 3D Concrete Printed Building at Bewoor, Bagalkot Division | Department of Posts, Ministry of Communication, Govt. of India | Pending |2024|
+| 3 | CI | Vetting of design of BR. No. 291 of size 1: 1.545m Arch Bridge at CH:107 Dabolim and Vasco-da-Gama station, Goa | Rail Vikas Nigam Limited, Hubli, Karnataka| Completed | 2024 |
+| 2 | CI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x30.5m steel truss pipeline bridge no. 290B-1/4 at Railway KM: 106/280 at Shantinagar Area, Dabolim, Goa| Rail Vikas Nigam Limited, Hubli, Karnataka |Completed |2023|
+| 1 | CI | Proof Check of Structural Design and Drawing for the Proposed construction of 1x26.20 m girder of size 1.30 m composite girder at km 106/255 at Shantinagar Area, Dabolim, Goa. | Rail Vikas Nigam Limited, Hubli, Karnataka |Completed|2023|
