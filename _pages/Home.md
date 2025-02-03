@@ -8,34 +8,38 @@ redirect_from:
   - /Home.html
 ---
 
-Dr. Ramesh Nayaka is an assistant professor in the Department of Civil and Infrastructure Engineering at IIT Dharwad. Dr. Nayaka obtained his Ph.D. in Structural Engineering and Materials from University of Malaya (UM) in Malaysia (2016-2019) and He was also given a thesis excellence award in 2019. Dr. Nayaka attended IIT Madras and earned an M.Tech. in Civil Engineering (2011-2013). His B.Eng. in Civil Engineering (2007–2011) is from VTU Karnataka (BEC Bagalkot). Dr Ramesh Nayaka possesses expertise in the structural engineering, materials, construction technology, and management. Further research interests include value -addition analysis innovation in terms composite materials and structures, innovative design and structural behaviour of materials and structural systems, as well as the development of new approaches in fabricating free-form structural elements. His extensive expertise and experience are crucial for the proposed project, which focuses on the performance of  3D concrete printing technology,AC blocks and self-healing concrete. Dr. Nayaka has research articles published in esteemed journals and research initiatives supported by SERB. He contributed to several projects, including environmentally friendly building materials consisting of local waste materials for affordable housing, green hollow blocks, Low Carbon Footprint Precast Concrete Products for An Energy Efficient Built Environment (lowcoprecon), BIM Approach in Life Cycle Cost and Environment Assessment of FRP and FRC structural systems and Innovative Development of Sustainable Wall Cladding Systems to Curtail the Heat Ingress.
+Dr. Ramesh Nayaka is an **Assistant Professor** in the Department of **Civil and Infrastructure Engineering** at **IIT Dharwad**. He earned his **Ph.D. in Structural Engineering and Materials** from the **University of Malaya (UM), Malaysia (2016–2019)**, where he was honored with the **Thesis Excellence Award in 2019**. He holds an **M.Tech. in Civil Engineering** from IIT Madras (2011–2013) and a **B.Eng. in Civil Engineering** from VTU Karnataka (BEC Bagalkot, 2007–2011).
 
-Dr. Nayaka worked as an assistant professor in the Department of Civil Engineering at NIT Warangal (2019-2023), MAHE, Manipal, Karnataka, and NIT Calicut before joining the IIT Dharwad. His career covers more than 10 years, including pre- and post-Ph.D. experiences in both teaching and research. He is guided More than 24 PG dissertations and 6 UG final year projects and currently supervising 10 Ph.D. thesis. 
+Dr. Nayaka specializes in **structural engineering**, with a strong research focus on **value-addition analysis, material innovations, structural behavior of systems, and advancements in construction technology**. His ongoing research projects explore **3D Concrete Printing Technology**, **innovative design and behavior of structural system**s, and the development of **free-form and sustainable structural elements**. His studies further investigate composite materials and sustainable construction solutions, integrating BIM-driven Framework for Sustanability Audit (Environmental and Cost) and A**I/ML applications for Structural Health Monitoring and Stability Analysis of Important Infrastructures (Bridges and Dams)**. 
 
-Dr. Nayaka has research articles published in esteemed journals and research initiatives supported by SERB and other funding agencies. He contributed to a number of projects, including environmentally friendly building materials consisting of local waste materials for affordable housing, green hollow blocks, Low Carbon Footprint Precast Concrete Products for An Energy Efficient Built Environment (lowcoprecon), BIM Approach in Life Cycle Cost and Environment Assessment of FRC Slabs and Innovative Development of Sustainable Wall Cladding Systems to Curtail the Heat Ingress. He has evalauted more than 5 Ph.D. thesis and more than 30 PG dissertation. 
+Before joining IIT Dharwad, Dr. Nayaka served as an Assistant Professor at NIT Warangal (2019–2023), MAHE Manipal, and NIT Calicut. With over a decade of academic and research experience, he has mentored over 24 PG dissertations and six UG final-year projects, and currently supervises ten Ph.D. scholars. He has also evaluated more than five Ph.D. theses and over 30 PG dissertations.
 
- **Administrative Roles and Responsibilities**
-1. Faculty Incharge-Civil (Infrastructure, Planning and Support), IIT DHARWAD
-2. Member, SENATE, IIT DHARWAD
-3. Advisor, Career Development Cell, IIT DHARWAD
-4. Member, Green Initiative Committee, IIT DHARWAD
-5. Member, UG-APEC Committee, IIT DDHARWAD
-6. Member, Furniture Purchase Committee, IIT DHARWAD
-7. Member, Committee to devise an Exit plan for final year UG students, 2024-25. IIT DHARWAD
-8. Member, Allotment of Director Discretion Quota (DDQ) Flats in Faculty Housing
-9. Faculty Advisor (B.Tech. - 2024 Batch), Civil and Infrastructure Engineering, IIT DHARWAD
-10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT DHARWAD
-11. Time Table Coordinator, Dept. of CIE, IIT DHARWAD (June 2023 - May 2024)
-12. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT DHARWAD
+His research is supported by funding agencies, focusing on projects such as: Sustainable 3D Concrete Printing for Structural Systems, Sustainable Building Envelop Systems, Stability Analysis of Dam; Materails Characterisation, BIM-based Life Cycle Cost and Environmental Assessments for FRC and FRP systems; Affordable Housing Solutions; Self-Healing Concrete and Autoclaved Aerated Concrete. Dr. Nayaka has published his research in high-impact journals and actively contributes to national and international academic collaborations.
 
- **Membership in Professional Bodies**
-1. Chartered Engineer (CEng), Institute of Engineers, India 
-2. Member, Project Management Institute (PMI), USA 
-3. Member, Institute of Engineers (IEI), India 
-4. Affiliate Member (AM), American Society of Civil Engineers (ASCE), USA
-5. Young Member, The International Union of Laboratories and Experts in Construction Materials, Systems and Structures (*RILEM*), France
+**Administrative Roles and Responsibilities**
+
+1. Member, SENATE, IIT Dharwad
+2. Faculty In-Charge - Civil (Infrastructure, Planning, and Support), IIT Dharwad
+3. Advisor, Career Development Cell, IIT Dharwad
+4. Member, Green Initiative Committee, IIT Dharwad
+5. Member, UG-APEC Committee, IIT Dharwad
+6. Member, Furniture Purchase Committee, IIT Dharwad
+7. Member, Committee for Exit Plan of Final Year UG Students (2024–25), IIT Dharwad
+8. Member, Faculty Housing Allocation - Director's Discretion Quota (DDQ), IIT Dharwad
+9. Faculty Advisor (B.Tech. 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
+10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
+11. Time Table Coordinator (June 2023 – May 2024), Dept. of CIE, IIT Dharwad
+12. Lab In-Charge (Concrete Technology & Environmental Engineering), Dept. of CIE, IIT Dharwad
+
+**Professional Memberships**
+1. Chartered Engineer (CEng), Institute of Engineers (IEI), India
+2. Member, Project Management Institute (PMI), USA
+3. Member, Institute of Engineers (IEI), India
+4. Affiliate Member, American Society of Civil Engineers (ASCE), USA
+5. Young Member, RILEM (The International Union of Laboratories and Experts in Construction Materials, Systems, and Structures), France
 6. Young Member, International Association of Bridge and Structural Engineering (IABSE), Zurich, Switzerland
 7. Member, Indian Concrete Institute, India
-8. Member, Task Group 6.7 Sustainable structures to foster climate change mitigation and transition towards carbon neutrality, IABSE - TG6.7. 
-   
+8. Member, IABSE Task Group 6.7 - Sustainable Structures for Climate Change Mitigation & Carbon Neutrality
+9. Member. Australia India Critical Mineral Research Hub (AICMRH), Consortium at IIT Hyderabad.
+
 
