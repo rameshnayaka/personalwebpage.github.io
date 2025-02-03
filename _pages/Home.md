@@ -27,7 +27,7 @@ Dr. Nayaka has research articles published in esteemed journals and research ini
 10. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT Dharwad
 
  **Membership in Professional Bodies**
-1. Charted Engineer (IN), Institute of Engineers, India 
+1. Chartered Engineer (CEng), Institute of Engineers, India 
 2. Member, Project Management Institute (PMI), USA 
 3. Member, Institute of Engineers (IEI), India 
 4. Affiliate Member (AM), American Society of Civil Engineers (ASCE), USA
