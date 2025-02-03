@@ -15,18 +15,18 @@ Dr. Nayaka worked as an assistant professor in the Department of Civil Engineeri
 Dr. Nayaka has research articles published in esteemed journals and research initiatives supported by SERB and other funding agencies. He contributed to a number of projects, including environmentally friendly building materials consisting of local waste materials for affordable housing, green hollow blocks, Low Carbon Footprint Precast Concrete Products for An Energy Efficient Built Environment (lowcoprecon), BIM Approach in Life Cycle Cost and Environment Assessment of FRC Slabs and Innovative Development of Sustainable Wall Cladding Systems to Curtail the Heat Ingress. He has evalauted more than 5 Ph.D. thesis and more than 30 PG dissertation. 
 
  **Administrative Roles and Responsibilities**
-1. Faculty Incharge-Civil (Infrastructure, Planning and Support), IIT Dharwad
-2. Member, SENATE, IIT Dharwad
-3. Advisor, Career Development Cell, IIT Dharwad
-4. Member, Green Initiative Committee, IIT Dharwad
-5. Member, UG-APEC Committee, IIT Dharwad
-6. Member, Furniture Purchase Committee, IIT Dharwad
-7. Member, Committee to devise an Exit plan for final year UG students, 2024-25. 
+1. Faculty Incharge-Civil (Infrastructure, Planning and Support), IIT DHARWAD
+2. Member, SENATE, IIT DHARWAD
+3. Advisor, Career Development Cell, IIT DHARWAD
+4. Member, Green Initiative Committee, IIT DHARWAD
+5. Member, UG-APEC Committee, IIT DDHARWAD
+6. Member, Furniture Purchase Committee, IIT DHARWAD
+7. Member, Committee to devise an Exit plan for final year UG students, 2024-25. IIT DHARWAD
 8. Member, Allotment of Director Discretion Quota (DDQ) Flats in Faculty Housing
-9. Faculty Advisor (B.Tech. - 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
-10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
-11. Time Table Coordinator, Dept. of CIE, IIT Dharwad (June 2023 - May 2024)
-12. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT Dharwad
+9. Faculty Advisor (B.Tech. - 2024 Batch), Civil and Infrastructure Engineering, IIT DHARWAD
+10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT DHARWAD
+11. Time Table Coordinator, Dept. of CIE, IIT DHARWAD (June 2023 - May 2024)
+12. Lab Incharge (Concrete Technology and Environmental Engg), CIE, IIT DHARWAD
 
  **Membership in Professional Bodies**
 1. Chartered Engineer (CEng), Institute of Engineers, India 
