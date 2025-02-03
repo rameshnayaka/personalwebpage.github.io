@@ -18,8 +18,8 @@ His research is supported by funding agencies, focusing on projects such as: Sus
 
 **Administrative Roles and Responsibilities**
 
-1. Member, SENATE, IIT Dharwad
-2. Faculty In-Charge - Civil (Infrastructure, Planning, and Support), IIT Dharwad
+1. Member, Academic Senate, IIT Dharwad
+2. Faculty in-Charge - Civil (Infrastructure, Planning, and Support), IIT Dharwad
 3. Advisor, Career Development Cell, IIT Dharwad
 4. Member, Green Initiative Committee, IIT Dharwad
 5. Member, UG-APEC Committee, IIT Dharwad
@@ -29,7 +29,7 @@ His research is supported by funding agencies, focusing on projects such as: Sus
 9. Faculty Advisor (B.Tech. 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
 10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
 11. Time Table Coordinator (June 2023 – May 2024), Dept. of CIE, IIT Dharwad
-12. Lab In-Charge (Concrete Technology & Environmental Engineering), Dept. of CIE, IIT Dharwad
+12. Lab in-Charge (Concrete Technology & Environmental Engineering), Dept. of CIE, IIT Dharwad
 
 **Professional Memberships**
 1. Chartered Engineer (CEng), Institute of Engineers (IEI), India
