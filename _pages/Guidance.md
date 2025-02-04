@@ -32,14 +32,14 @@ author_profile: true
 
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
-| 01 |21CEM7R07| Amit Kumar| Nano - Composites in 3D Concrete Printing| 2023 | Sr. Engr, AFCONS Infrastructure Ltd., UP|
-| 02 |21CEM7R11|  G. Ujwal Kumar| 3D Concrete Printing TEchnology| 2023 | AEE at TWEG in Govt of Telangana (Ex PWC India)|
-| 03 |21CEM7R16|  N. Dinesh| BIM-MCDM Framework for Life Cycle Assessment| 2023 |SAP Consultant at Kagool, Hyderabad|
-| 04 |21CEM7R28|  V. Saiteja| BIM for Energy and Carbon Footprint Optimisation| 2023 |AEE, I&CAD Dept., Govt. of Telangana (Ex. L&T Construction)|
-| 05 |21CEM7R29|  Y.P.G.D. Krishna Sai| Construction Work Packages| 2023 |Project Engr., VConstruct Pvt. Ltd., Pune|
-| 06 |21CEM7S31|  M. Meghana| PCM for Sustainable Buildings| 2023 |-|
-| 07 |21CEM7R05| Akash Chaturvedi | Geopolymer Concrete| 2023 |Sr. Engr., Tata Projects, UP |
-| 08 |21CEM7R05| shubhadeep pillewan | Geopolymer Concrete| 2023 |Sr. Engr.,  Sr. Engr, AFCONS Infrastructure Ltd., MH|
+| 01 |21CEM7R07|Amit Kumar| Nano - Composites in 3D Concrete Printing| 2023 | Sr. Engr, AFCONS Infrastructure Ltd UP|
+| 02 |21CEM7R11|G Ujwal Kumar| 3D Concrete Printing TEchnology| 2023 | AEE at TWEG in Govt of Telangana (Ex PWC India)|
+| 03 |21CEM7R16|N Dinesh| BIM-MCDM Framework for Life Cycle Assessment| 2023 |SAP Consultant at Kagool Hyderabad|
+| 04 |21CEM7R28|V Saiteja| BIM for Energy and Carbon Footprint Optimisation| 2023 |AEE, I&CAD Dept Govt of Telangana|
+| 05 |21CEM7R29|Y P G D Krishna Sai| Construction Work Packages| 2023 |Project Engr., VConstruct Pvt. Ltd., Pune|
+| 06 |21CEM7S31|M Meghana| PCM for Sustainable Buildings| 2023 |-|
+| 07 |21CEM7R05|Akash Chaturvedi| Geopolymer Concrete| 2023 |Sr. Engr., Tata Projects, UP |
+| 08 |21CEM7R05|Shubhadeep pillewan| Geopolymer Concrete| 2023 |Sr. Engr.,  Sr. Engr, AFCONS Infrastructure Ltd., MH|
 
 # 2021-2022 
 
