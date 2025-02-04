@@ -8,16 +8,16 @@ author_profile: true
 
 ### Sponsored Research 
 
-| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status | Period |
-|---------|----------|---------------|----------------|-----------------------|--------|---------|
-| 8 | Co-PI | 	Stability analysis of Panam Dam in Gujarat| Panam Project Division, Gujarat | 29.50 | On-going |2024-2025|
-| 7 | Co-PI | SPARC Project on "Synergizing Excellence: Fostering a Bilateral Critical Minerals Research Hub between India and Australia (Consortium as part of AI-CoE at IIT Hyderabad and Monash University, Australia)" | Ministry of Education, Govt. of India | 600  | On-going |2024-2026|
-| 6 | Co-PI | AI-Sustainable Infrastructure and Resource Planning, Analysis and Monitoring (AISwARYAM) (Consortium as part of AI-CoE at IIT Hyderabad) | Ministry of Education, Govt. of India | 200 (Phase-I) | On-going |2024 - 2025|
-| 5 | Co-PI | Sustainable Housing Innovations | Nidhi Prayas Grant, Deshpande Startups, Hubballi | 5.00 Lakhs | On-going |2024-2025|
-| 4 | PI | Development of Versatile 3D Printable Concrete from Recyclable Construction and Demolition (C&D) Waste Generated from Phase-I of I.I.T. Dharwad Project: towards circular Economy | IIT Dharwad, SGNF Grant | 5.00 | On-going | 2023-2025|
-| 3 | Co-PI | Conceptual Design and Feasibility Study of Gauge-Changing Bogie For Variable Gauge System | Govt. of Malaysia | 4.00| Completed |2021-2023
-| 2 | PI | Innovative Development of Sustainable White Clay and Graphene Oxide based Ventilated Wall Cladding Systems to Curtail the Heat Ingress| Ministry of Education, Govt. of India | 44.12| Completed |2020-2024
-| 2 | PI | BIM for Life Cycle Assessment for Fibre Reinforced and Conventional Slabs | NIT Warangal, SEED Grant | 5.00 | Completed | 2020-2022|
+| SL. No. | PI/Co-PI | Project Title | Funding Agency | Total Grant (in lakhs) | Status | Period    |
+|---------|----------|---------------|----------------|-----------------------|--------|------------|
+| 9 | Co-PI | 	Stability analysis of Panam Dam in Gujarat| Panam Project Division, Gujarat | 29.50 | On-going |2024-2025|
+| 8 | Co-PI | SPARC Project on "Synergizing Excellence: Fostering a Bilateral Critical Minerals Research Hub between India and Australia (Consortium as part of AI-CoE at IIT Hyderabad and Monash University, Australia)" | Ministry of Education, Govt. of India | 600  | On-going |2024-2026|
+| 7 | Co-PI | AI-Sustainable Infrastructure and Resource Planning, Analysis and Monitoring (AISwARYAM) (Consortium as part of AI-CoE at IIT Hyderabad) | Ministry of Education, Govt. of India | 200 (Phase-I) | On-going |2024 - 2025|
+| 6 | Co-PI | Sustainable Housing Innovations | Nidhi Prayas Grant, Deshpande Startups, Hubballi | 5.00 | On-going |2024-2025|
+| 5 | PI | Development of Versatile 3D Printable Concrete from Recyclable Construction and Demolition (C&D) Waste Generated from Phase-I of I.I.T. Dharwad Project: towards circular Economy | SGNF Grant, IIT Dharwad,| 5.00 | On-going | 2023-2025|
+| 4 | Co-PI | Conceptual Design and Feasibility Study of Gauge-Changing Bogie For Variable Gauge System |UITHM, Govt. of Malaysia | 4.00| Completed |2021-2023|
+| 3 | PI | Innovative Development of Sustainable White Clay and Graphene Oxide based Ventilated Wall Cladding Systems to Curtail the Heat Ingress| ANRF (SERB), Govt. of India | 44.12| Completed |2020-2024
+| 2 | PI | BIM for Life Cycle Assessment for Fibre Reinforced and Conventional Slabs | SEED Grant,NIT Warangal| 5.00 | Completed | 2020-2022|
 | 1 | Co-PI |Green Hollow Masonry Blocks| Prototype Grant, UMCIC, University of Malaya, Malaysia |7.00 | Completed |2018-19
 
 
@@ -25,10 +25,11 @@ author_profile: true
 
 | SL. No. | PI/Co-PI | Project Title | Funding Agency | Status | YoPR |
 |---------|----------|---------------|----------------|--------|-------|
-| 12| CI |Proof Checking Design and Drawings of Retaining Wall at CH 107, Railway Doubling Line of Hospet - Vasco|Southern Railways, Hubballi | Completed |2025|
+| 13| CI |Proof Checking Design and Drawings of Retaining Wall at CH 107, Railway Doubling Line of Hospet - Vasco|Southern Railways, Hubballi | Completed |2025|
+| 12 | CI |Structural Auditing of Existing Terminal Buildings, ATC Tower of Belagavi Airport| Airport Authority of India, Govt. of India| On-going |2024|
 | 11 | CI |Proof Checking Design and Drawings of RUB No. 427A| KRIDE Bengaluru| Completed |2024|
 | 10 | CI |Proof Checking of Structural Design and Drawings of Extended Floor Construction of Veterinery College Building, Gadag| PWD, Govt. of Karnataka| Completed | 2024|
-| 9 | CI |Soundness of Existing Academic and Main Building, Veterinery College Building, Gadag| PWD, Govt. of Karnataka | Completed| 2024|
+| 9 | CI |Preliminary visit to site to check stability of structure to make sure feasibility of proof checking of extended proposed construction of Academic Buildings, Veterinary College, Gadag.| PWD, Govt. of Karnataka | Completed| 2024|
 | 8 | Co-CI |Stability Investigation Work of College of Community Sciences, UAS Dharwad | UAS Dharwad| Completed | 2024|
 | 7 | Co-CI | Proof Checking of Structural Design and Drawings of District Offices, Belagavi | PWD, Govt. of Karnataka| Completed | 2024|
 | 6 | CI | Proof Checking of Design and Drawing of FOB Ramp at Heelalige Station Yard under Baiyyappanahalli – Hosur doubling Project | KRIDE, Bengaluru| Completed | 2024|
