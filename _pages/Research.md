@@ -8,12 +8,11 @@ author_profile: true
 ## Research Interests
 - Structural Engineering and Materials 
 - 3D Concrete Printing and its Structural Performance 
-- Sustainable Construction Materials and Techniques
+- Sustainable Structural Systems (Composite)
 - Low Carbon and Energy Efficient Building Systems
-- Construction Technology and Management
+- Construction Technology 
 - Building Information Modelling (BIM)
 - Life Cycle Environmental and Cost Assessment 
-- Functional Design of Buildings
 - Optimization Techniques (AI/ML) for Sustainable Infrastructure
 
 
