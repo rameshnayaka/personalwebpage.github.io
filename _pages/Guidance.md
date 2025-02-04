@@ -11,36 +11,28 @@ author_profile: true
 # UG, PG AND PH.D. GUIDANCE
 
 **1. Ph.D. Thesis Guidance at** **IIT Dharwad**
-
-- Anitha Nayak (CE23DP001)
-- Fatheali Allabaks Shilar (CE23DP003)
-- Manjunathgouda M Patil (CE23DP010) 
+1. Anitha Nayak (CE23DP001)
+2. Manjunathgouda M Patil (CE23DP010)
+3. Jugal Kishore M (CE24DP003)
 
 **2. Ph.D. Thesis Guidance at NIT Warangal** 
 
 **Full-Time Scholars** 
 
-Ahamed Sharif (Sem-I, 2022)
-
-Usharani V (Sem-II, 2021) 
-
-Rajmohan B (JRF; Sem - I, 2021)
-
-Ijjada Nandini (Sem - II, 2020)
-
-Maniratnam (Sem- I, 2020) 
+1. Ahamed Sharif (Sem-I, 2022)
+2. Usharani V (Sem-II, 2021) 
+3. Ijjada Nandini (Sem - II, 2020)
+4. Maniratnam (Sem- I, 2020) 
 
 **Part-Time Scholars** 
 
-Abhishek R (Sem - II, 2020)
-
-K. Shanthi Sri (Sem - I, 2020) 
+5. Abhishek R (Sem - II, 2020)
+6. K. Shanthi Sri (Sem - I, 2020) 
 
  **3. M. Tech. Dissertation Guidance at NIT Warangal**
-
 ###### 2022-2023 
 
-1. Amit Kumar (21CEM7R07)
+1. Amit Kumar (21CEM7R07)       -           
 2. G. Ujwal Kumar (21CEM7R11)
 3. N. Dinesh (21CEM7R16)
 4. V. Saiteja (21CEM7R28)
@@ -69,7 +61,6 @@ K. Shanthi Sri (Sem - I, 2020)
 8. V. Rishi Reddy (191582)
 
  
-
 **3. B. Tech. Dissertation Guidance** 
 
 ###### 2022-23
