@@ -5,78 +5,81 @@ permalink: /Guidance/
 author_profile: true
 
 ---
+**1. PH.D. GUIDANCE at IIT Dharwad**
+
+| SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
+|---------|----------|---------------|----------------|-------|------------|
+| 01 | CE23DP001 | Anitha Nayak | 3D Concrete Printing Technology| Ongoing | 2023 |
+| 02 | CE23DP010 |  Manjunathgouda M Patil |3D Concrete Printing Technology | Ongoing | 2023 |
+| 03 | CE24DP003 |  Jugal Kishore M|AI in Stability Analysis of Infrastructure (Dam & Bridges)| Ongoing | 2024 |
+
+**2. Ph.D. GUIDANCE at NIT WARANGAL** 
+| SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
+|---------|----------|---------------|----------------|-------|------------|
+| 01 |720003| K Shanti Sri| AI/ML Models for Performance of Self Healing Concrete | Ongoing | 2020 |
+| 02 |720009| Manirathnam P| Alkali Activated Concrete and Life Cycle Assessment | Ongoing | 2020 |
+| 03 |721012| Ijjada Nandini| Autoclave Aerated Concrete | Ongoing | 2020 |
+| 04 |721010| Abhishek R| Eco-Friendly Building Envelopment Systems| Ongoing | 2020 |
+| 05 |21CERER12| Usharani V| Biochar based Geopolymer Concrete | Ongoing | 2021 |
+| 06 |22CER1R01| Ahamed Sharif| Clay based sustainable construction material| Ongoing | 2022 |
+
+**3. M. Tech. Dissertation Guidance at NIT Warangal**
+**2022-2023**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |21CEM7R07| Amit Kumar| Nano - Composites in 3D Concrete Printing| 2023 | Sr. Engr, AFCONS Infrastructure Ltd., UP|
+| 02 |21CEM7R11|  G. Ujwal Kumar| 3D Concrete Printing TEchnology| 2023 | AEE at TWEG in Govt of Telangana (Ex PWC India)|
+| 03 |21CEM7R16|  N. Dinesh| BIM-MCDM Framework for Life Cycle Assessment| 2023 |SAP Consultant at Kagool, Hyderabad|
+| 04 |21CEM7R28|  V. Saiteja| BIM for Energy and Carbon Footprint Optimisation| 2023 |AEE, I&CAD Dept., Govt. of Telangana (Ex. L&T Construction)|
+| 05 |21CEM7R29|  Y.P.G.D. Krishna Sai| Construction Work Packages| 2023 |Project Engr., VConstruct Pvt. Ltd., Pune|
+| 06 |21CEM7S31|  M. Meghana| PCM for Sustainable Buildings| 2023 |-|
+| 07 |21CEM7R05| Akash Chaturvedi | Geopolymer Concrete| 2023 |Sr. Engr., Tata Projects, UP |
+| 08 |21CEM7R05| shubhadeep pillewan | Geopolymer Concrete| 2023 |Sr. Engr.,  Sr. Engr, AFCONS Infrastructure Ltd., MH|
+
+**2021-2022**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |201810|  Arigela Hemanth | Machine Learning Models for Energy Optimisation in Buildins| 2022 | DAta Analyst, Omnicom Media Group and Sapiens, KA|
+| 02 |201814|   M. Rakesh Sai Kumar| 6D BIM Approach for Evaluation of Modern Construction Technique| 2022 | Deputy Manager, Tata Projects, Noida|
+| 03 |201813| Nalla Harish| Geopolymer Concrete| 2022 |Ph.D. Scholar, NIT Warangal|
+| 04 |201805| Ammar Mallik| BIM model for LCA of Fibre Reinforced Concrete| 2022 |Consultant, BEXEL India|
+| 05 |201829| Vishwa Saurav | BIM Model for LCA of steel and FRP bars | 2022 |Junior Engineer, Govt. of Jharkhand|
 
 
-
-# UG, PG AND PH.D. GUIDANCE
-
-**1. Ph.D. Thesis Guidance at** **IIT Dharwad**
-1. Anitha Nayak (CE23DP001)
-2. Manjunathgouda M Patil (CE23DP010)
-3. Jugal Kishore M (CE24DP003)
-
-**2. Ph.D. Thesis Guidance at NIT Warangal** 
-
-**Full-Time Scholars** 
-
-1. Ahamed Sharif (Sem-I, 2022)
-2. Usharani V (Sem-II, 2021) 
-3. Ijjada Nandini (Sem - II, 2020)
-4. Maniratnam (Sem- I, 2020) 
-
-**Part-Time Scholars** 
-
-5. Abhishek R (Sem - II, 2020)
-6. K. Shanthi Sri (Sem - I, 2020) 
-
- **3. M. Tech. Dissertation Guidance at NIT Warangal**
-###### 2022-2023 
-
-1. Amit Kumar (21CEM7R07)       -           
-2. G. Ujwal Kumar (21CEM7R11)
-3. N. Dinesh (21CEM7R16)
-4. V. Saiteja (21CEM7R28)
-5. Y.P.G.D. Krishna Sai (21CEM7R29)
-6. M. Meghana (21CEM7S31)
-7. Akash Chaturvedi (21CEM7R05)
-8. Shubhadeep Pilawane (21CEM7R19)
-
-###### 2021 - 2022
-
-1. Arigela Hemanth (201810)
-2. M. Rakesh Sai Kumar (201814)
-3. Nalla Harish (201813)
-4. Ammar Malik (201805)
-5. Vishwa Saurav (201829)
-
-###### 2020 - 2021
-
-1. Anshul Kushwaha (191553)
-2. Ashwani Kumar Jaiswal (191554)
-3. E. Saikumar (191560)
-4. Macharla Aravind (191566)
-5. Rekha Toshniwal (191574)
-6. M. Bhanu Prakash (191567)
-7. Payal Ukey  (191578)
-8. V. Rishi Reddy (191582)
+**2020 - 2021**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |191553| Anshul Kushwaha | Construction Techniques for UG Tunnel Projects| 2021 |Consultant, MASIN, Haryana|
+| 02 |191554| Ashwani Kumar Jaiswal| BEM simulation for Energy Optimisation| 2021 | Ph.D. Scholar, IIT Madras|
+| 03 |191560| E. Saikumar| Embodied Energy and Carbon Emission of SCMs| 2022 |Sr. Analyst, EcoSys, Hyderabad|
+| 04 |191566| Macharla Aravind| Offsite Construction for Public Housing Projects| 2022 |-|
+| 04 |191567| M. Bhanu Prakash|Time and Cost Evaluation of FRC and NC Slabs| 2022 |Ph.D. Scholar, IIT Tirupati|
+| 05 |191574| Rekha Toshniwal | HAM for Express Highway Projects | 2022 |Asst. Project Lead, JLL, Kolkata|
+| 04 |191578| Payal Ukey|Strategic Management Practices| 2022 |Assistant Manager, KEC International Ltd., MH|
+| 05 |191578| V. Rishi Reddy | Integration of BIM & GIS for Route Optimisation for Resources  | 2022 |Sogtware Engineer,Hyderabad|
 
  
-**3. B. Tech. Dissertation Guidance** 
+**3. B. Tech. Dissertation Guidance at NIT Warangal** 
 
-###### 2022-23
+ **2022-2023**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |191128| Mahaveer Kamuju| AI & ML in Civil Engg.| 2023 |Business Analyst at Impact Analytics, Bengaluru|
+| 02 |191153| Sai Kumar Kanthala|  AI & ML in Civil Engg.| 2023 | Software Engineer at CloudAngles, Bengaluru|
+| 03 |191119| Naga sai Durga Prasad|  AI & ML in Civil Engg.| 2023 |-|
 
-1. Mahaveer Kamuju(191128)
-2. Sai Kumar Kanthala(191153)
-3. Naga sai Durga Prasad(191119)
 
-###### 2021-2022
+**2021-2022**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |181128| K. Suryateja| BIM in Substation Projects| 2022 |-|
+| 02 |181136| N. Balaji Chowdary|  BIM in Substation Projects| 2022 | GT, L&T Construction, Chennai|
+| 03 |181148| T Avinash|  BIM in Substation Projects| 2022 |-|
 
-1. K. Suryateja (181128)
-2. N. Balaji Chowdary ( 181136)
-3. T Avinash (181148)
+**2020-2021**
+| SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
+|-----|----------|---------------|----------------|------------|-------------------|
+| 01 |171250| Utkarsh Singh| BIM in Institutional Building Project| 2021 |DAA Consultant, ZS Pune|
+| 02 |171112| Divyansh Dubey| BIM in Institutional Building Projects| 2021 |Sr. Soft Engr., Deccan AI, Hyderabad|
+| 03 |171231| Fawaz Sharief|BIM in Institutional Building Project| 2021 |Founding Team, GTM, Deccan AI, USA|
 
-###### 2020-2021
-
-1. Utkarsh Singh (171250)
-2. Divyansh Dubey (171112)
-3. Fawaz Sharief (171231)
