@@ -13,6 +13,7 @@ author_profile: true
 | 02 | CE23DP010 |  Manjunathgouda M Patil |3D Concrete Printing Technology | Ongoing | 2023 |
 | 03 | CE24DP003 |  Jugal Kishore M|AI in Stability Analysis of Infrastructure (Dam & Bridges)| Ongoing | 2024 |
 
+
 **2. Ph.D. GUIDANCE at NIT WARANGAL** 
 | SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
 |---------|----------|---------------|----------------|-------|------------|
@@ -24,6 +25,7 @@ author_profile: true
 | 06 |22CER1R01| Ahamed Sharif| Clay based sustainable construction material| Ongoing | 2022 |
 
 **3. M. Tech. Dissertation Guidance at NIT Warangal**
+
 **2022-2023**
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
