@@ -25,9 +25,9 @@ author_profile: true
 | 05 |21CERER12| Usharani V| Biochar based Geopolymer Concrete | Ongoing | 2021 |
 | 06 |22CER1R01| Ahamed Sharif| Clay based sustainable construction material| Ongoing | 2022 |
 
-**3. M. Tech. Dissertation Guidance at NIT Warangal**
 
-**2022-2023**
+**3.  M. Tech. Dissertation Guidance at NIT Warangal**
+# 2022-2023
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |21CEM7R07| Amit Kumar| Nano - Composites in 3D Concrete Printing| 2023 | Sr. Engr, AFCONS Infrastructure Ltd., UP|
@@ -39,7 +39,7 @@ author_profile: true
 | 07 |21CEM7R05| Akash Chaturvedi | Geopolymer Concrete| 2023 |Sr. Engr., Tata Projects, UP |
 | 08 |21CEM7R05| shubhadeep pillewan | Geopolymer Concrete| 2023 |Sr. Engr.,  Sr. Engr, AFCONS Infrastructure Ltd., MH|
 
-**2021-2022**
+# 2021-2022 
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |201810|  Arigela Hemanth | Machine Learning Models for Energy Optimisation in Buildins| 2022 | DAta Analyst, Omnicom Media Group and Sapiens, KA|
@@ -49,7 +49,8 @@ author_profile: true
 | 05 |201829| Vishwa Saurav | BIM Model for LCA of steel and FRP bars | 2022 |Junior Engineer, Govt. of Jharkhand|
 
 
-**2020 - 2021**
+
+# 2020 - 2021
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |191553| Anshul Kushwaha | Construction Techniques for UG Tunnel Projects| 2021 |Consultant, MASIN, Haryana|
@@ -63,8 +64,7 @@ author_profile: true
 
  
 **3. B. Tech. Dissertation Guidance at NIT Warangal** 
-
- **2022-2023**
+# 2022-2023
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |191128| Mahaveer Kamuju| AI & ML in Civil Engg.| 2023 |Business Analyst at Impact Analytics, Bengaluru|
@@ -72,14 +72,14 @@ author_profile: true
 | 03 |191119| Naga sai Durga Prasad|  AI & ML in Civil Engg.| 2023 |-|
 
 
-**2021-2022**
+# 2021-2022
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |181128| K. Suryateja| BIM in Substation Projects| 2022 |-|
 | 02 |181136| N. Balaji Chowdary|  BIM in Substation Projects| 2022 | GT, L&T Construction, Chennai|
 | 03 |181148| T Avinash|  BIM in Substation Projects| 2022 |-|
 
-**2020-2021**
+# 2020-2021
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |171250| Utkarsh Singh| BIM in Institutional Building Project| 2021 |DAA Consultant, ZS Pune|
