@@ -53,10 +53,10 @@ author_profile: true
 | 02 |191554| Ashwani Kumar Jaiswal| BEM simulation for Energy Optimisation| 2021 | Ph.D. Scholar, IIT Madras|
 | 03 |191560| E. Saikumar| Embodied Energy and Carbon Emission of SCMs| 2022 |Sr. Analyst, EcoSys, Hyderabad|
 | 04 |191566| Macharla Aravind| Offsite Construction for Public Housing Projects| 2022 |-|
-| 04 |191567| M. Bhanu Prakash|Time and Cost Evaluation of FRC and NC Slabs| 2022 |Ph.D. Scholar, IIT Tirupati|
-| 05 |191574| Rekha Toshniwal | HAM for Express Highway Projects | 2022 |Asst. Project Lead, JLL, Kolkata|
-| 04 |191578| Payal Ukey|Strategic Management Practices| 2022 |Assistant Manager, KEC International Ltd., MH|
-| 05 |191578| V. Rishi Reddy | Integration of BIM & GIS for Route Optimisation for Resources  | 2022 |Sogtware Engineer,Hyderabad|
+| 05 |191567| M. Bhanu Prakash|Time and Cost Evaluation of FRC and NC Slabs| 2022 |Ph.D. Scholar, IIT Tirupati|
+| 06 |191574| Rekha Toshniwal | HAM for Express Highway Projects | 2022 |Asst. Project Lead, JLL, Kolkata|
+| 07 |191578| Payal Ukey|Strategic Management Practices| 2022 |Assistant Manager, KEC International Ltd., MH|
+| 08 |191578| V. Rishi Reddy | Integration of BIM & GIS for Route Optimisation for Resources  | 2022 |Sogtware Engineer,Hyderabad|
 
  
 **3. B. Tech. Dissertation Guidance at NIT Warangal** 
