@@ -67,7 +67,7 @@ author_profile: true
 | 08 |191578| V. Rishi Reddy | Integration of BIM & GIS for Route Optimisation for Resources  | 2022 |Sogtware Engineer,Hyderabad|
 
  
-**3. B. Tech. Dissertation Guidance at NIT Warangal** 
+**4. B. Tech. Dissertation Guidance at NIT Warangal** 
 
 # 2022-2023
 
