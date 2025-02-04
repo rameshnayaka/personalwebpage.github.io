@@ -27,7 +27,9 @@ author_profile: true
 
 
 **3.  M. Tech. Dissertation Guidance at NIT Warangal**
+
 # 2022-2023
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |21CEM7R07| Amit Kumar| Nano - Composites in 3D Concrete Printing| 2023 | Sr. Engr, AFCONS Infrastructure Ltd., UP|
@@ -40,6 +42,7 @@ author_profile: true
 | 08 |21CEM7R05| shubhadeep pillewan | Geopolymer Concrete| 2023 |Sr. Engr.,  Sr. Engr, AFCONS Infrastructure Ltd., MH|
 
 # 2021-2022 
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |201810|  Arigela Hemanth | Machine Learning Models for Energy Optimisation in Buildins| 2022 | DAta Analyst, Omnicom Media Group and Sapiens, KA|
@@ -51,6 +54,7 @@ author_profile: true
 
 
 # 2020 - 2021
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |191553| Anshul Kushwaha | Construction Techniques for UG Tunnel Projects| 2021 |Consultant, MASIN, Haryana|
@@ -64,7 +68,9 @@ author_profile: true
 
  
 **3. B. Tech. Dissertation Guidance at NIT Warangal** 
+
 # 2022-2023
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |191128| Mahaveer Kamuju| AI & ML in Civil Engg.| 2023 |Business Analyst at Impact Analytics, Bengaluru|
@@ -73,6 +79,7 @@ author_profile: true
 
 
 # 2021-2022
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |181128| K. Suryateja| BIM in Substation Projects| 2022 |-|
@@ -80,6 +87,7 @@ author_profile: true
 | 03 |181148| T Avinash|  BIM in Substation Projects| 2022 |-|
 
 # 2020-2021
+
 | SL.No.| Reg. No | Student Name | Research Topic |Year of Completion| Current Position|
 |-----|----------|---------------|----------------|------------|-------------------|
 | 01 |171250| Utkarsh Singh| BIM in Institutional Building Project| 2021 |DAA Consultant, ZS Pune|
