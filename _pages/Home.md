@@ -29,7 +29,7 @@ His research is supported by funding agencies, focusing on projects such as: Sus
 9. Faculty Advisor (B.Tech. 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
 10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
 11. Time Table Coordinator (June 2023 – May 2024), Dept. of CIE, IIT Dharwad
-12. Lab in-Charge (Concrete Technology & Environmental Engineering), Dept. of CIE, IIT Dharwad
+12. Lab in-Charge (Construction Materials & Environmental Engineering), Dept. of CIE, IIT Dharwad
 
 **Professional Memberships**
 1. Chartered Engineer (CEng), Institute of Engineers (IEI), India
